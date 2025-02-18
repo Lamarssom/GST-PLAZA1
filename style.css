@@ -1,0 +1,20 @@
+body{
+    background-color: burlywood;
+    font-family: "Libre Baskerville", serif;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+.image1{
+    border: 5px solid blue;
+    border-radius: 12px 24px 36px 48px;
+}
+.image2{
+    border: 5px solid red;
+    border-radius: 50%;
+}
+.image3{
+    border: 5px solid darkslateblue;
+    border-radius: 10px 20px 30px 40px;
+}
